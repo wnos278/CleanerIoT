@@ -1,3 +1,3 @@
 # CleanerIoT
 1. Full Project About IoT Cleaner.
-2. Server/Client/DB + InoCode + Slide and Report
+2. Server/Client/DB + InoCode + Slide and Report + RabbitMQ Broker Docker
